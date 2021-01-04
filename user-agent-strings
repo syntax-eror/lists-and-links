@@ -1,0 +1,10 @@
+#Common user agent strings seen in browsers:
+
+IE 11 on Windows 7:
+Mozilla/5.0 (Windows NT 6.1; Trident/7.0; rv:11.0) like Gecko
+
+IE 11 on Windows 10:
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+
+Quickbooks:
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0;QuickBooks/29.0/R13/PRO) like Gecko
